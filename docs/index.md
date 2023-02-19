@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*Lista de Chamada Universitário*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -25,23 +25,18 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Eduardo Trova
+* Kaue Pacco
+* Mateus Ciancio
 
 
 # Descrição do projeto
 
-*&lt;Descrição do projeto&gt;*
+*Agora falando da funcionalidade do software, haverá uma lista a esquerda, que será composta pelo nome dos alunos, com checkboxes clicáveis para marcar se a pessoa está presente ou não, no canto inferior esquerdo, está a data da chamada, que o utilizador do software poderá selecionar para alterar alguma outra chamada. Logo acima, há a lista do canto direito, que é responsável por puxar quais alunos estão com atestado naquele dia, assim, deixando-o isento da falta, e acima desta, está o campo de busca, para facilitar caso algum nome específico precise ser conferido. Depois de todos os ajustes feitos, o usuário do software pressiona no botão enviar, podendo depois alterar esse envio se necessário.*
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama de casos de uso&gt;*
+*![Main](https://user-images.githubusercontent.com/100205866/219978259-00f263c9-6c6b-4ad0-9c62-8274fd23b783.png)*
 
 # Descrição dos casos de uso
 
@@ -49,7 +44,7 @@
 
 # Protótipos de tela
 
-*&lt;Protótipos de tela&gt;*
+*![SISTEMA DE FREQUÊNCIA](https://user-images.githubusercontent.com/100205866/219977541-e74ac436-0d00-4ea0-b457-e6ded6d1932d.png)*
 
 # Modelo de domínio
 
