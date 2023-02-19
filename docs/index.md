@@ -52,6 +52,10 @@
 ![image](https://user-images.githubusercontent.com/100205866/219980124-466fe4ee-b08e-497e-b5f9-1fba1a61f887.png)
 ![image](https://user-images.githubusercontent.com/100205866/219980164-bb78029d-f644-4383-a60b-99b670d79649.png)
 
+**Caso de uso - Especificar atestado**
+
+![image](https://user-images.githubusercontent.com/100205866/219980538-e14a6da6-37c3-4ca8-9fc3-4eef8df32f5f.png)
+![image](https://user-images.githubusercontent.com/100205866/219980579-b1578290-1d7c-4b92-a423-204a54a82f9b.png)
 
  *
 
