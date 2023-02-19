@@ -40,7 +40,98 @@
 
 # Descrição dos casos de uso
 
-*&lt;Descrição dos casos de uso&gt;*
+*
+Caso de uso - Selecionar classe
+
+Identificador 
+
+CSU01 
+
+Nome 
+
+Selecionar classe 
+
+Atores 
+
+Professor 
+
+Sumário 
+
+O professor referente à aula seleciona a respectiva classe para ter acesso aos alunos daquela mesma. 
+
+Complexidade 
+
+Baixa 
+
+Regras de Negócio 
+
+N/D 
+
+Pré-condições 
+
+N/D 
+
+Pós-condição 
+
+Aparecerão apenas os alunos referentes à classe inserida 
+
+Pontos de Inclusão 
+
+N/D 
+
+Pontos de Extensão 
+
+N/D 
+
+  
+
+Fluxo Principal 
+
+Ações do Ator 
+
+Ações do Sistema 
+
+1. O Professor insere o número da classe correspondente. 
+
+  
+
+  
+
+2. O Sistema mostra uma mensagem de carregamento 
+
+  
+
+3. O Sistema valida se há uma classe com o correspondente ao número inserido 
+
+  
+
+4. O Sistema informa os alunos daquela classe. 
+
+ 
+
+Fluxo de Exceção 1: 3a. O Sistema não valida uma classe correspondete 
+
+Ações do Ator 
+
+Ações do Sistema 
+
+  
+
+1. O Sistema exibe uma mensagem de erro 
+
+  
+
+2. O Sistema volta para a tela de inserção de classe 
+
+3. O Professor seleciona uma classe existente. 
+
+  
+
+  
+
+4. Volta ao passo 4 do Fluxo Principal. 
+
+ *
 
 # Protótipos de tela
 
