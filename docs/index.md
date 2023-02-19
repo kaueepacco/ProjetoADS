@@ -41,95 +41,17 @@
 # Descrição dos casos de uso
 
 *
-Caso de uso - Selecionar classe
+**Caso de uso - Selecionar classe**
 
-Identificador 
-
-CSU01 
-
-Nome 
-
-Selecionar classe 
-
-Atores 
-
-Professor 
-
-Sumário 
-
-O professor referente à aula seleciona a respectiva classe para ter acesso aos alunos daquela mesma. 
-
-Complexidade 
-
-Baixa 
-
-Regras de Negócio 
-
-N/D 
-
-Pré-condições 
-
-N/D 
-
-Pós-condição 
-
-Aparecerão apenas os alunos referentes à classe inserida 
-
-Pontos de Inclusão 
-
-N/D 
-
-Pontos de Extensão 
-
-N/D 
-
-  
-
-Fluxo Principal 
-
-Ações do Ator 
-
-Ações do Sistema 
-
-1. O Professor insere o número da classe correspondente. 
-
-  
-
-  
-
-2. O Sistema mostra uma mensagem de carregamento 
-
-  
-
-3. O Sistema valida se há uma classe com o correspondente ao número inserido 
-
-  
-
-4. O Sistema informa os alunos daquela classe. 
+![image](https://user-images.githubusercontent.com/100205866/219979488-7a053d44-c411-4bc9-9e7e-5f3de16d1b2f.png)
+![image](https://user-images.githubusercontent.com/100205866/219979623-699b9ac1-247a-48ca-ac75-eb055a942863.png)
 
  
+**Caso de uso - Atribuir falta**
 
-Fluxo de Exceção 1: 3a. O Sistema não valida uma classe correspondete 
+![image](https://user-images.githubusercontent.com/100205866/219980124-466fe4ee-b08e-497e-b5f9-1fba1a61f887.png)
+![image](https://user-images.githubusercontent.com/100205866/219980164-bb78029d-f644-4383-a60b-99b670d79649.png)
 
-Ações do Ator 
-
-Ações do Sistema 
-
-  
-
-1. O Sistema exibe uma mensagem de erro 
-
-  
-
-2. O Sistema volta para a tela de inserção de classe 
-
-3. O Professor seleciona uma classe existente. 
-
-  
-
-  
-
-4. Volta ao passo 4 do Fluxo Principal. 
 
  *
 
