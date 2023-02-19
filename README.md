@@ -11,7 +11,7 @@
 
 # Documentação
 
-Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://&lt;kaueepacco&gt;.github.io/ppads-2023s1**.
+Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://kaueepacco.github.io/ppads-2023s1**.
 
 # Releases
 
