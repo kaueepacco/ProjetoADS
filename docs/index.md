@@ -65,7 +65,8 @@ Lista de Chamada Universitário
 
 # Modelo de domínio
 
-*&lt;Modelo de domínio&gt;*
+![Diagrama sem nome](https://user-images.githubusercontent.com/100205866/221983935-cf6a7c83-8025-46e0-a84d-8a565054592a.jpg)
+
 
 # Decisões de arquitetura
 
