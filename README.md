@@ -16,3 +16,4 @@ Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o 
 # Releases
 
 19/02 - Descrição do projeto/ Diagrama de casos de uso/ Descrição dos casos de uso/ Prototipagem
+28/02 - Modelo de domínio/ Arquitetura/ Diagrama de implantação
