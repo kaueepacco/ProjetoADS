@@ -70,7 +70,11 @@ Lista de Chamada Universitário
 
 # Decisões de arquitetura
 
-*&lt;Decisões de arquitetura&gt;*
+**Diagrama de Sequencia**
+
+![Diagrama sem nome (1)](https://user-images.githubusercontent.com/100205866/221994129-e5b3768e-e4d6-494c-9b9f-386bb0412863.jpg)
+
+
 
 # Diagrama de implantação
 
