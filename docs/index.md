@@ -70,6 +70,9 @@ Lista de Chamada Universitário
 
 # Decisões de arquitetura
 
+**Tecnologias**
+Visando a aplicação em desenvolvimento WEB, nossa equipe pensa em desenvolver o projeto com informações guardadas em banco de dados do tipo MongoDB, com desenvolvimento front-end baseado em HTML, CSS E JAVASCRIPT. Para o funcionamento do back-end, será realizado uma API em node.js, o que facilitará uma interação com a interface gráfica.
+
 **Diagrama de Sequencia**
 
 ![Diagrama sem nome (1)](https://user-images.githubusercontent.com/100205866/221994129-e5b3768e-e4d6-494c-9b9f-386bb0412863.jpg)
