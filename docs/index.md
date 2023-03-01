@@ -79,7 +79,8 @@ Lista de Chamada Universitário
 
 # Diagrama de implantação
 
-*&lt;Diagrama de implantação&gt;*
+![Diagrama sem nome](https://user-images.githubusercontent.com/100205866/222129288-abfb9736-2f52-4914-9f48-c8f5c90703e3.jpg)
+
 
 # Referências
 
