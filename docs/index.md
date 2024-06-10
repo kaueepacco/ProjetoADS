@@ -16,7 +16,6 @@ Lista de Chamada Universitário
 - [Modelo de domínio](#modelo-de-domínio)
 - [Decisões de arquitetura](#decisões-de-arquitetura)
 - [Diagrama de implantação](#diagrama-de-implantação)
-- [Referências](#referências)
 
 
 # Autores
@@ -79,6 +78,3 @@ Visando a aplicação em desenvolvimento WEB, nossa equipe pensa em desenvolver 
 ![Diagrama sem nome](https://user-images.githubusercontent.com/100205866/222129288-abfb9736-2f52-4914-9f48-c8f5c90703e3.jpg)
 
 
-# Referências
-
-*&lt;Lista de referências&gt;*
