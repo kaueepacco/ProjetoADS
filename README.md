@@ -3,7 +3,7 @@
 
 # Projeto: *Lista de Chamada Universitário*
 
-# Grupo: *Santíssima Trindade*
+# Grupo: *Kauê Pacco*
 
 # Descrição
 
